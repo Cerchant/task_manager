@@ -1,0 +1,106 @@
+{
+  "categories": [
+    {
+      "id": "318b760b-0281-4c38-b992-dc73fc3b1f47",
+      "projects": [
+        "17d725a6-c11e-4856-a099-c32bdd6d5a11",
+        "99fdc8a8-8fbf-41a2-88af-038686f139a7"
+      ],
+      "title": "cat1",
+      "color": "#ac2020"
+    }
+  ],
+  "projects": [
+    {
+      "id": "17d725a6-c11e-4856-a099-c32bdd6d5a11",
+      "tasks": [
+        "26a5ded5-1041-4efd-a908-2865d753404a",
+        "7ce215a8-aa37-46b5-92ed-4c2b5ddeb3a6",
+        "1c328b0a-f2db-4e35-9375-8d698b4a9dca",
+        "11ff5bc8-80ba-425e-a0d8-70cbf69650fc",
+        "6399f799-4e50-4bab-ad65-d7d30a422595"
+      ],
+      "title": "proj1"
+    },
+    {
+      "id": "99fdc8a8-8fbf-41a2-88af-038686f139a7",
+      "tasks": [
+        "eaaf9884-5f01-47a0-9b4c-3501d275683d",
+        "a8c4c8b7-11bb-41ba-a5d6-ac2a45e8b6ca"
+      ],
+      "title": "proj2"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "26a5ded5-1041-4efd-a908-2865d753404a",
+      "title": "task2",
+      "urgent_color": "red",
+      "author": "test@mail.ru",
+      "executor": "test2@mail.ru",
+      "comment": "test",
+      "date": "2023-06-22",
+      "status": "done"
+    },
+    {
+      "id": "eaaf9884-5f01-47a0-9b4c-3501d275683d",
+      "title": "task1",
+      "urgent_color": "red",
+      "author": "test@mail.ru",
+      "executor": "test2@mail.ru",
+      "comment": "lalala",
+      "date": "2023-06-06",
+      "status": "done"
+    },
+    {
+      "id": "a8c4c8b7-11bb-41ba-a5d6-ac2a45e8b6ca",
+      "title": "task2",
+      "urgent_color": "red",
+      "author": "test@mail.ru",
+      "executor": "test2@mail.ru",
+      "comment": "lalala",
+      "date": "2023-05-30",
+      "status": "done"
+    },
+    {
+      "id": "7ce215a8-aa37-46b5-92ed-4c2b5ddeb3a6",
+      "title": "test",
+      "urgent_color": "yellow",
+      "author": "test@mail.ru",
+      "executor": "test@mail.ru",
+      "comment": "yeyeyey",
+      "date": "2023-06-28",
+      "status": "done"
+    },
+    {
+      "id": "1c328b0a-f2db-4e35-9375-8d698b4a9dca",
+      "title": "test 2",
+      "urgent_color": "orange",
+      "author": "test@mail.ru",
+      "executor": "test@mail.ru",
+      "comment": "hdh",
+      "date": "2023-06-22",
+      "status": "done"
+    },
+    {
+      "id": "11ff5bc8-80ba-425e-a0d8-70cbf69650fc",
+      "title": "dee",
+      "urgent_color": "green",
+      "author": "test@mail.ru",
+      "executor": "eee",
+      "comment": "eee",
+      "date": "2023-06-06",
+      "status": "in process"
+    },
+    {
+      "id": "6399f799-4e50-4bab-ad65-d7d30a422595",
+      "title": "пипипупу",
+      "urgent_color": "red",
+      "author": "test@mail.ru",
+      "executor": "",
+      "comment": "",
+      "date": "",
+      "status": "in process"
+    }
+  ]
+}

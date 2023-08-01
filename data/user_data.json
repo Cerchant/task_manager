@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "a8f2d8d7-3ab5-4911-952c-38e8e9a66085",
+      "mail": "test@mail.ru",
+      "password": "123",
+      "categories": [
+        "318b760b-0281-4c38-b992-dc73fc3b1f47"
+      ]
+    },
+    {
+      "id": "623135b0-c27c-4bac-9575-577b87b04865",
+      "mail": "test2@mail.ru",
+      "password": "123",
+      "categories": []
+    }
+  ]
+}

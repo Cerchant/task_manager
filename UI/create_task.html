@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Task manager</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="scripts_create_task.js"></script>
+</head>
+
+<body>
+  <form class="div_form" id="create_task_form">
+    <label>Create Task</label></p>
+
+    <input type="title" name="title" placeholder="title" required></p>
+
+    <select type="urgent_color" name="urgent_color" placeholder="urgent_color" required>
+      <option>very urgent (red)</option>
+      <option>urgently (orange)</option>
+      <option>can wait (yellow)</option>
+      <option>not urgent (green)</option>
+    </select>
+    </p>
+
+    <input type="executor" name="executor" placeholder="executor" required></p>
+
+    <textarea type="comment" name="comment" placeholder="comment" required></textarea></p>
+
+    <input type="date" name="date" placeholder="date" required></p>
+
+    <button type="submit" name="form_task_submit" id="submit_task_button">Enter</button></p>
+  </form>
+</body>
+
+</html>
